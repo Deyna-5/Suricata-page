@@ -1,0 +1,4 @@
+Hola, muy buenos dias. Espero se encuentre bien :) Me disculpo de antemano por lo horrible que quedó este desafio,
+pero en verdad me costó mucho hacerlo :( no estoy muy clara con el tema de responsive desing. Por algun motivo que desconozco
+cuando lo visualizas con IponeX en el inspector se ve muy lindo, con iphone5 no :( y no se muy bien el porque.
+Estare al tanto de su feedback y muchas gracias por su trabajo!!
